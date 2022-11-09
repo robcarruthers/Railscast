@@ -1,7 +1,7 @@
 {
-  "identifier": "org.robcarruthers.co.nz",
+  "identifier": "nz.hybrid3.railscast",
   "name": "RailsCast",
-  "organization": "robcarruthers",
+  "organization": "hybrid3",
   "description": "Nova conversion of @rbates Railscast tmtheme",
   "version": "1.0",
   "categories": ["themes"],

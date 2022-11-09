@@ -12,7 +12,5 @@ Let's get started!
 🎈 To give users an idea of what your theme looks like, it's a great idea to show big, beautiful screenshots of your theme in action:
 -->
 
-[](images/editor.png)
-![](https://nova.app/images/en/dark/editor.png)
-
 RailsCast is based on the original Textmate [RailsCast Theme](https://github.com/ryanb/textmate-themes).
+![](images/screenshot.png)
