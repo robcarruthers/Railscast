@@ -2,7 +2,9 @@
   "identifier": "org.hybrid3.nz",
   "name": "RailsCast",
   "organization": "Hybrid3",
-  "description": "Conversion of Railscast theme",
+  "description": "Nova conversion of @rbates Railscast tmtheme",
   "version": "1.0",
-  "categories": ["themes"]
+  "categories": ["themes"],
+  "repository": "https://gitlab.com/robcarruthers/railscast",
+  "bugs": "https://gitlab.com/robcarruthers/railscast/-/issues"
 }
