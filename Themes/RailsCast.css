@@ -114,6 +114,9 @@ comment {
 processing {
   color: hsl(210, 20%, 50%);
 }
+doctype {
+  color: white;
+}
 declaration {
   color: hsl(210, 20%, 50%);
 }
@@ -130,7 +133,6 @@ invalid {
 link {
   color: hsl(210, 100%, 70%);
 }
-
 /* Keywords */
 keyword {
   color: rgba(204, 120, 51, 1);

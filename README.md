@@ -13,4 +13,4 @@ Let's get started!
 -->
 
 RailsCast is based on the original Textmate [RailsCast Theme](https://github.com/ryanb/textmate-themes).
-![](images/screenshot.png)
+![](editor.png)

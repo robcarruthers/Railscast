@@ -3,7 +3,7 @@
   "name": "RailsCast",
   "organization": "hybrid3",
   "description": "Nova conversion of @rbates Railscast tmtheme",
-  "version": "1.0",
+  "version": "1.0.3",
   "categories": ["themes"],
   "repository": "https://gitlab.com/robcarruthers/railscast",
   "bugs": "https://gitlab.com/robcarruthers/railscast/-/issues"
