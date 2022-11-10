@@ -13,4 +13,18 @@ Let's get started!
 -->
 
 RailsCast is based on the original Textmate [RailsCast Theme](https://github.com/ryanb/textmate-themes).
-![](editor.png)
+![](Images/extension/editor.png)
+
+## Installation
+
+- Open Nova Preferences window (⌘ + ,)
+- Open the "Theme" option
+- Click on "More themes" button
+- Search for "RailsCast"
+- Click the "Install" button
+
+## Activation
+
+- Open Nova Preferences window (⌘ + ,)
+- Open the "Theme" option
+- Scroll to "RailsCast" and click on it

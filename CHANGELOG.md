@@ -1,3 +1,7 @@
+## Version 1.0.4
+
+- Refinements
+
 ## Version 1.0.3
 
 - Changed window image location
